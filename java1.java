@@ -1,1 +1,1 @@
-11223344
+system.out.println("真帅啊！");
